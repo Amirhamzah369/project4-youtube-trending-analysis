@@ -936,7 +936,7 @@ youtube-trending-analysis/
 │   └── Project5_Youtube_trending.ipynb
 │
 ├── data/
-│   └── youtube_trending_videos_global_daily.csv
+│   └── youtube_trending_videos_global_daily.parquet
 │
 ├── tableau/
 │   └── youtube_dashboard_preview.jpg
