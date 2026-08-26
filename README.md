@@ -75,7 +75,7 @@ The goal is not only to produce visualizations, but to demonstrate a complete wo
 ## Tableau Public
 
 **Interactive Dashboard:**
-PASTE_TABLEAU_PUBLIC_LINK_HERE
+Youtube_trending.png
 
 The current Tableau dashboard provides an executive-level view of:
 
