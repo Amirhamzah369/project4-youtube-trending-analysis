@@ -91,7 +91,7 @@ The current Tableau dashboard provides an executive-level view of:
 
 ### Dashboard Snapshot
 
-![YouTube Trending Dashboard](./images/youtube_dashboard_preview.png)
+![YouTube Trending Dashboard]Youtube_trending.jpg
 
 ---
 
