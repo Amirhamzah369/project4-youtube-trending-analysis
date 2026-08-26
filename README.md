@@ -74,8 +74,7 @@ The goal is not only to produce visualizations, but to demonstrate a complete wo
 
 ## Tableau Public
 
-**Interactive Dashboard:**
-Youtube_trending.png
+![YouTube Trending Analytics Dashboard](./Youtube_trending.jpg)
 
 The current Tableau dashboard provides an executive-level view of:
 
@@ -937,10 +936,10 @@ youtube-trending-analysis/
 │   └── Project5_Youtube_trending.ipynb
 │
 ├── data/
-│   └── youtube_trending_videos_global_daily.parquet
+│   └── youtube_trending_videos_global_daily.csv
 │
 ├── tableau/
-│   └── youtube_dashboard_preview.png
+│   └── youtube_dashboard_preview.jpg
 │
 └── images/
     └── youtube_dashboard_preview.png
